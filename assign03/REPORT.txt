@@ -1,0 +1,14 @@
+1) I did not collaborate with anyone on this project.
+2) I do think I did everything correct
+3) N/A
+4) At first i was getting a segmentation fault in part 2 but then quickly realised i was setting my lru victin to the clk
+and returning that as the index.  After that I had an issue of where i was keeping track of my fault count.  Nothing major
+and easily fixed.
+5) nja859@fox04:~/CS3733/assign03$ md5sum part1-output
+ceabc02825a5b908e474b053074ab53c  part1-output
+
+
+nja859@fox04:~/CS3733/assign03$ ./part2 part2sequence part2-output
+Part 2 page faults: 3210
+nja859@fox04:~/CS3733/assign03$ md5sum part2-output
+c95b27848ae8d4354d87678d075001f7  part2-output

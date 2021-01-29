@@ -1,0 +1,18 @@
+1)
+Server Ready
+Server: Starting accept
+Server: Starting accept
+Closing Server
+
+2) 
+Server Ready
+Server: Starting accept
+Server: Starting accept
+Employee found!
+Server: Starting accept
+
+3)
+Server Ready
+Server: Starting accept
+Server: Starting accept
+Employee not found!

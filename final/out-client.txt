@@ -1,0 +1,18 @@
+1)
+Choose your options.
+Get Salary for an Employee or enter STOP to quit
+Enter the abc123 of the Employee: STOP
+nja859@fox05:~/CS3733/final$
+
+
+2)
+Choose your options.
+Get Salary for an Employee or enter STOP to quit
+Enter the abc123 of the Employee: nja859
+Employee: Mauch, Salary: 50000.00
+
+3)
+Choose your options.
+Get Salary for an Employee or enter STOP to quit
+Enter the abc123 of the Employee: zzz432
+Employee Not Found

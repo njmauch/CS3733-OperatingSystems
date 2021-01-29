@@ -1,0 +1,2 @@
+﻿  assign04.c
+C:\Users\njmau\source\repos\assign04\assign04\assign04.c(3,10): fatal error C1083: Cannot open include file: 'pthread.h': No such file or directory

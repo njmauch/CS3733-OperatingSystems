@@ -1,0 +1,9 @@
+1. I did not collaborate with any one for this assignment.
+
+2. I do think everything is correct in my program and believe I covered most issues that may arise if any.
+
+3. N/A
+
+4. My biggest challenge came from that I work in VIsual Studio for writing my programs and it was working fine but when I came
+over to MobaXterm to ensure the program was working properly I was getting segmentation faults so trying to get my ReadLine()
+to read what I need and send back to the ReadInt or ReadDouble functions was a little tricky for me.

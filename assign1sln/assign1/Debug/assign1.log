@@ -1,0 +1,7 @@
+﻿  wordcount.c
+C:\Users\njmau\source\repos\assign1\assign1\wordcount.c(28,17): warning C4013: 'fork' undefined; assuming extern returning int
+C:\Users\njmau\source\repos\assign1\assign1\wordcount.c(34,91): warning C4013: 'getpid' undefined; assuming extern returning int
+C:\Users\njmau\source\repos\assign1\assign1\wordcount.c(45,13): warning C4013: 'wait' undefined; assuming extern returning int
+wordcount.obj : error LNK2019: unresolved external symbol _fork referenced in function _main
+wordcount.obj : error LNK2019: unresolved external symbol _wait referenced in function _main
+C:\Users\njmau\source\repos\assign1\Debug\assign1.exe : fatal error LNK1120: 2 unresolved externals

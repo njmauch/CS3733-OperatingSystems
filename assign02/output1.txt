@@ -1,0 +1,52 @@
+nja859@fox03:~/CS3733/assign02$ prog -alg FIFO -input input1.txt
+Student Name: Nathan Mauch
+Input File Name: input1.txt
+CPU Scheduling Alg: FIFO
+Process 1 is completed at 5 ms
+Process 2 is completed at 12 ms
+Process 3 is completed at 18 ms
+Process 4 is completed at 22 ms
+Average Waiting time = 8.75 ms
+Average turnaround time = 14.25 ms
+Throughput = 0.18 jobs per ms
+
+nja859@fox03:~/CS3733/assign02$ prog -alg SJF -input input1.txt
+Student Name: Nathan Mauch
+Input File Name: input1.txt
+CPU Scheduling Alg: SJF
+Process 4 is completed at 4 ms
+Process 1 is completed at 9 ms
+Process 3 is completed at 15 ms
+Process 2 is completed at 22 ms
+Average Waiting time = 7.00 ms
+Average turnaround time = 12.50 ms
+Throughput = 0.18 jobs per ms
+
+nja859@fox03:~/CS3733/assign02$ prog -alg PR -input input1.txt
+Student Name: Nathan Mauch
+Input File Name: input1.txt
+CPU Scheduling Alg: PR
+Process 4 is completed at 4 ms
+Process 1 is completed at 9 ms
+Process 2 is completed at 16 ms
+Process 3 is completed at 22 ms
+Average Waiting time = 7.25 ms
+Average turnaround time = 12.75 ms
+Throughput = 0.18 jobs per ms
+
+nja859@fox03:~/CS3733/assign02$ prog -alg RR -quantum 3  -input input1.txt
+Student Name: Nathan Mauch
+Input File Name: input1.txt
+CPU Scheduling Alg: RR
+Process 1 is completed at 3 ms
+Process 2 is completed at 6 ms
+Process 3 is completed at 9 ms
+Process 4 is completed at 12 ms
+Process 1 is completed at 14 ms
+Process 2 is completed at 17 ms
+Process 3 is completed at 20 ms
+Process 4 is completed at 21 ms
+Process 2 is completed at 22 ms
+Average Waiting time = 17.50 ms
+Average turnaround time = 19.25 ms
+Throughput = 0.18 jobs per ms

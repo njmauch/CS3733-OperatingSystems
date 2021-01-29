@@ -1,0 +1,8 @@
+1. I did not collaborate with any other students on this assignment
+
+2. I do believe I did everything correct
+
+3. N/A
+
+4. The challenging part for me was trying to figure out the data structure and creating the link list properly.  I was able to pull up some old cold from my data structure course
+that was extremely helpful in completing this assignment.  Once I got past that, implementing the different scheduling algorithms was very straight forward.

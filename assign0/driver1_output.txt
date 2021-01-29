@@ -1,0 +1,58 @@
+nja859@fox03:~/CS3733/asign00$ ./driver1 2 2 2
+Enter an integer:32
+The integer you entered is: 32
+Enter an integer:43
+The integer you entered is: 43
+Enter a double:2.43
+The double you entered: 2.430000
+Enter a double:149.324
+The double you entered: 149.324000
+Enter a line: entering a line
+The line you just entered is: entering a line
+Enter a line: entering another line after this
+The line you just entered is: entering another line after this
+The largest integer entered is: 43
+The largest double entered is: 149.324000
+The longest line entered is: entering another line after this
+
+
+nja859@fox03:~/CS3733/asign00$ ./driver1 0 3 2
+Enter a double:3.41a
+You entered an invalid double
+Enter a double:3.13
+The double you entered: 3.130000
+Enter a double:441
+The double you entered: 441.000000
+Enter a double:041
+The double you entered: 41.000000
+Enter a line: a line
+The line you just entered is: a line
+Enter a line: another line
+The line you just entered is: another line
+The largest integer entered is: -2147483648
+The largest double entered is: 441.000000
+The longest line entered is: another line
+
+
+nja859@fox03:~/CS3733/asign00$ ./driver1 2 2 3
+Enter an integer:32
+The integer you entered is: 32
+Enter an integer:2a1
+You entered an invalid integer
+Enter an integer:1  2
+You entered an invalid integer
+Enter an integer:4
+The integer you entered is: 4
+Enter a double:43.32
+The double you entered: 43.320000
+Enter a double:634.2
+The double you entered: 634.200000
+Enter a line: a line
+The line you just entered is: a line
+Enter a line: another line
+The line you just entered is: another line
+Enter a line: my last one
+The line you just entered is: my last one
+The largest integer entered is: 32
+The largest double entered is: 634.200000
+The longest line entered is: another line

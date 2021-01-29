@@ -1,0 +1,25 @@
+./wordcount input_file_1.txt input_file_3.txt input_file_2.txt input.txt
+Child process 31937 for File_2 - input_file_3.txt: doest not exist
+Child process 31936 for File_1 - input_file_1.txt: number of words is 6
+Child process 31938 for File_3 - input_file_2.txt: number of words is 16
+Child process 31939 for File_4 - input.txt: doest not exist
+Main process created 4 child process to count words in 4 files
+2 files have been counted sucessfully!
+2 files did not exist.
+
+
+./wordcount input_file_1.txt input_file_2.txt
+Child process 32286 for File_2 - input_file_2.txt: number of words is 16
+Child process 32285 for File_1 - input_file_1.txt: number of words is 6
+Main process created 2 child process to count words in 2 files
+2 files have been counted sucessfully!
+0 files did not exist.
+
+
+./wordcount input_file_1.txt input_file_2.txt input_file_3.txt
+Child process 32446 for File_1 - input_file_1.txt: number of words is 6
+Child process 32447 for File_2 - input_file_2.txt: number of words is 16
+Child process 32448 for File_3 - input_file_3.txt: number of words is 0
+Main process created 3 child process to count words in 3 files
+3 files have been counted sucessfully!
+0 files did not exist.
